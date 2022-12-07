@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tanvir Hussain</h1>
+
+<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/12/Christmas.jpg" />
+
 <h3 align="center">A passionate front-end developer from the United kingdom.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-archfiend-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-archfiend-hussain" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript, JavaScript**
+- 🌱 I’m currently learning **React, TypeScript, JavaScript, Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanvir-Archfiend-Hussain?tab=repositories](https://github.com/Tanvir-Archfiend-Hussain?tab=repositories)
 
-- 💬 Ask me about **React, HTML, CSS, Linux, TypeScript, JavaScript**
+- 💬 Ask me about **React, HTML, CSS, Linux, TypeScript, JavaScript, Python**
 
 - 📫 How to reach me **tanvirelhussain@gmail.com**
 
