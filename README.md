@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Hussain</h1>
 
-<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/12/Christmas.jpg" />
-
 <h3 align="center">A passionate front-end developer from the United kingdom.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-archfiend-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-archfiend-hussain" /> </p>
