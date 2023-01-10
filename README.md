@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Tanvir Hussain 🎅, 
-  🎄 Merry Christmas and Happy New Year 🎄</h1>
-<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/12/Christmas.jpg" />
+  🎄 Happy New Year 🎄</h1>
+<img src="" />
 
 <h3 align="center">A passionate front-end developer from the United kingdom.</h3>
 
