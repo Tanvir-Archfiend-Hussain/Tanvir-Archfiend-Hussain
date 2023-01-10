@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Tanvir Hussain 🎅, 
   🎄 Happy New Year 🎄</h1>
-<img src="" />
+<img src="https://uzbekistan.travel/storage/app/uploads/public/5fd/8ae/081/thumb_1470_1090_490_0_0_crop.jpg" />
 
 <h3 align="center">A passionate front-end developer from the United kingdom.</h3>
 
