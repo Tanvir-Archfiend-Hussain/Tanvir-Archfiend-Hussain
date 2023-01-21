@@ -32,5 +32,5 @@
 
 <h1 align="center">Check out my YouTube Channel</h1>
 <h3 align="center">Click on the Youtube Image or on the YouTube link bellow to see my projects</h3>
-<a href="https://www.youtube.com/channel/UClDW8SpdhGnLuy1uRqo-HaQ" target="blank" rel="noreferrer"><h3 align="center">YouTube Channel Link: https://www.youtube.com/channel/UClDW8SpdhGnLuy1uRqo-HaQ</h3></a>
+<h3 align="center">YouTube Channel Link: https://www.youtube.com/channel/UClDW8SpdhGnLuy1uRqo-HaQ</h3>
 <a href="https://www.youtube.com/channel/UClDW8SpdhGnLuy1uRqo-HaQ" target="blank" rel="noreferrer"><img src="https://www.pixelstalk.net/wp-content/uploads/2016/05/Youtube-Wallpapers-HD.png" /></a>
